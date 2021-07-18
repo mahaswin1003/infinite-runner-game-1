@@ -1,1 +1,1 @@
-# infinite-runner-game-1
+# project-38-INFINTE-RUNNER-GAME
